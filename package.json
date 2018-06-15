@@ -1,0 +1,16 @@
+{
+    "name": "can-stache-snippets",
+    "publisher": "jeroencornelissen",
+    "description": "snippets for can-stache helpers",
+    "version": "0.1.0",
+    "engines": { "vscode": "0.10.x" },
+    "categories": ["Snippets"],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "handlebars",
+                "path": "./snippets/handlebars.json"
+            }
+        ]
+    }
+}
